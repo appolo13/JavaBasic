@@ -3,6 +3,6 @@ public class Test {
 		System.out.println("test");
 		System.out.println("test2");
 		
-		System.out.println("dev001 에서 추가했다.");
+		System.out.println("dev002_cmd modify.");
 	}
 }
